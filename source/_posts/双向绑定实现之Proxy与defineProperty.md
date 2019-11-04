@@ -1,7 +1,7 @@
 ---
 title: 双向绑定实现之Proxy与defineProperty
 date: 2019-04-28 15:56:51
-tags:
+tags: [算法,JavaScript]
 ---
 
 ## 观察者模式

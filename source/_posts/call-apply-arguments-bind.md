@@ -1,7 +1,7 @@
 ---
 title: 'call,apply,arguments,bind'
 date: 2019-05-20 14:20:31
-tags:
+tags: [JavaScript]
 ---
 ### call & apply
 该方法的语法和作用与 apply() 方法类似，只有一个区别，就是 call() 方法接受的是一个参数列表，而 apply() 方法接受的是一个包含多个参数的数组。
